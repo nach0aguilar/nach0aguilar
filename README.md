@@ -1,8 +1,9 @@
 ### Welcome, I'm Nacho
 
-<img src=".github/banner.png" alt="Banner"/>
+<a href="#"><img src=".github/banner.png" alt="Banner"/></a>
 
-<hr >
+<a href="#"><img src=".github/hr.png" alt="Banner"/></a>
+
 <!--
 **nach0aguilar/nach0aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
