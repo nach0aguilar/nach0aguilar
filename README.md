@@ -1,5 +1,3 @@
-### Welcome, I'm Nacho
-
 <a href="#"><img src=".github/banner.png" alt="Banner"/></a>
 
 <a href="#"><img src=".github/hr.png" alt="Banner"/></a>
